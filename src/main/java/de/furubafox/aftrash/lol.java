@@ -166,3 +166,6 @@ public class TrashPlugin extends JavaPlugin implements Listener, CommandExecutor
         }
     }
 }
+
+
+Dieser Code verwendet eine MySQL-Datenbank, um die Positionen der Mülleimer zu speichern und zu laden. Bitte stelle sicher, dass du die MySQL-Datenbank richtig eingerichtet hast und die erforderlichen Berechtigungen für den Zugriff auf die Datenbank hast. Außerdem solltest du die Konfigurationsdatei des Plugins entsprechend anpassen, um die Datenbankverbindungsinformationen zu speichern.
