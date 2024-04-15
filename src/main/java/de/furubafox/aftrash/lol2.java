@@ -182,3 +182,5 @@ public class TrashPlugin extends JavaPlugin implements Listener, CommandExecutor
         }
     }
 }
+
+Diese Version des Codes verwendet das Hologramm-API, um ein Hologramm über dem Mülleimer zu platzieren, sobald er platziert wird. Das Hologramm zeigt den Namen des Mülleimers und eine Anleitung zum Öffnen mit einem Rechtsklick. Wenn der Mülleimer abgebaut wird, wird das Hologramm automatisch entfernt.
