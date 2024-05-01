@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AFTrash.iml" filepath="$PROJECT_DIR$/AFTrash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FB-Trash.iml" filepath="$PROJECT_DIR$/FB-Trash.iml" />
     </modules>
   </component>
 </project>

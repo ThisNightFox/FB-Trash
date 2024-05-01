@@ -1,6 +1,6 @@
-name: AFTrash
+name: FBTrash
 version: '${project.version}'
-main: de.furubafox.aftrash.AFTrash
+main: de.furubafox.aftrash.FBTrash
 api-version: '1.20'
 authors: [ThisNightFox]
 
