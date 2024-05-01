@@ -6,4 +6,4 @@ authors: [ThisNightFox]
 
 commands:
   trash:
-    description: Gebe dir den Mülleimer
+    description: Öffnet den Mülleimer

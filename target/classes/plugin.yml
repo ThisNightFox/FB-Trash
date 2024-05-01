@@ -1,9 +1,0 @@
-name: FBTrash
-version: '1.1'
-main: de.furubafox.aftrash.FBTrash
-api-version: '1.20'
-authors: [ThisNightFox]
-
-commands:
-  trash:
-    description: Gebe dir den Mülleimer
