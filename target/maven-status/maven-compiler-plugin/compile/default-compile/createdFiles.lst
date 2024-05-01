@@ -1,0 +1,4 @@
+de\furubafox\fbtrash\FBTrash.class
+de\furubafox\fbtrash\utils\util.class
+de\furubafox\fbtrash\command\TrashCommand.class
+de\furubafox\fbtrash\utils\ItemBuilder.class
